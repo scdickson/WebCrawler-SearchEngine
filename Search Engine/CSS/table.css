@@ -1,0 +1,11 @@
+table{
+    border: 1px;
+    table-layout: fixed;
+    width: 400px;
+}
+
+td {
+    border: 1px;
+    overflow: ellipsis;
+    width: 200px;
+}
